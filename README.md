@@ -1,4 +1,4 @@
-# Second Chance - A Second-hand Marketplace
+# Second Chance - A Second-hand Marketplace (Demo Project)
 
 ## Overview
 
