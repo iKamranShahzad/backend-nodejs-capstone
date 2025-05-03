@@ -1,10 +1,10 @@
-# Second Chance - A Second-hand Products Marketplace
+# Second Chance - A Second-hand Products Marketplace 
 
 ## Project Overview
 
 Second Chance is a web application that provides a platform for users to buy and sell second-hand items. It aims to give pre-owned goods a new lease on life, promoting sustainability and affordability. The application consists of a backend built with Node.js and Express, a frontend built with React, and a sentiment analysis microservice.
 
-## Features
+## Listed Features
 
 - **Browse Items:** View a list of available second-hand items.
 - **Search and Filter:** Search for items based on keywords, category, condition, and age.
