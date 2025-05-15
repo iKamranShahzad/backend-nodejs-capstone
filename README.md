@@ -7,7 +7,7 @@ Second Chance is a web application that provides a platform for users to buy and
 ## Listed Features
 
 - **Browse Items:** View a list of available second-hand items.
-- **Search and Filter:** Search for items based on keywords, category, condition, and age.
+- **Search and Filter:** Search for items based on keywords, category, product condition, and age.
 - **Item Details:** View detailed information about each item, including descriptions and comments.
 - **User Authentication:** Register, log in, and manage user profiles.
 - **Add Items:** Logged-in users can post new items for sale.
