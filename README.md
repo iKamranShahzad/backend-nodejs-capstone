@@ -1,4 +1,4 @@
-# Second Chance - A Second-hand Products Marketplace  (Finished)
+# Second Chance - A Second-hand Products Marketplace  (Completed)
 
 ## Project Overview
 
